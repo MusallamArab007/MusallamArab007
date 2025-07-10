@@ -1,4 +1,10 @@
-<!-- Banner -->
+
+## 🌟🙋‍♂️ Musallam welcomes you!
+
+Welcome to my GitHub profile!  
+Don't Forgot to follow me **Thank You For Coming...😊**.
+
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="800" />
